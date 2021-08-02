@@ -1,4 +1,4 @@
-### Settuping
+### Setup
 
 To run Grafana with Prometheus and node exporter to track your node statictics you need:
 
